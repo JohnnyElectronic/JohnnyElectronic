@@ -31,3 +31,6 @@ Hello and welcome, I enjoy building things and love putting electronics into hob
 - [Programming Cables](https://github.com/JohnnyElectronic/Dev_Boards/tree/main/Cables)
 - [Devlopment Boards](https://github.com/JohnnyElectronic/Dev_Boards/)
 - [TP4057 Lipo Charger Board](https://github.com/JohnnyElectronic/Dev_Boards/tree/main/TP4057_Lipo_Charger)
+
+
+<a href="https://www.tindie.com/stores/johnnyelectronic/?ref=offsite_badges&utm_source=sellers_JohnyElectronic&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
