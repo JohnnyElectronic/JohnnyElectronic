@@ -33,4 +33,12 @@ Hello and welcome, I enjoy building things and love putting electronics into hob
 - [TP4057 Lipo Charger Board](https://github.com/JohnnyElectronic/Dev_Boards/tree/main/TP4057_Lipo_Charger)
 
 
+## EMF Meters
+
+<img src="../../../EMF_Meters/blob/main/EMF_Meters.jpg" width="20%">
+
+- [EMF Meter Replica](https://github.com/JohnnyElectronic/EMF_Meters/tree/main/EMF_Meter_Replica)
+- [10 LED EMF Meter Replica](https://github.com/JohnnyElectronic/EMF_Meters/tree/main/10_LED_EMF_Meter_Replica)
+
+
 <a href="https://www.tindie.com/stores/johnnyelectronic/?ref=offsite_badges&utm_source=sellers_JohnyElectronic&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
