@@ -37,6 +37,8 @@ Hello and welcome, I enjoy building things and love putting electronics into hob
 
 <img src="../../../EMF_Meters/blob/main/EMF_Meters.jpg" width="20%">
 
+### [EMF Meters](https://github.com/JohnnyElectronic/EMF_Meters/)
+
 - [EMF Meter Replica](https://github.com/JohnnyElectronic/EMF_Meters/tree/main/EMF_Meter_Replica)
 - [10 LED EMF Meter Replica](https://github.com/JohnnyElectronic/EMF_Meters/tree/main/10_LED_EMF_Meter_Replica)
 
@@ -44,7 +46,9 @@ Hello and welcome, I enjoy building things and love putting electronics into hob
 ## Battery Pack Holders
 
 <img src="../../../Battery_Pack_Holders/blob/main/img/battery_holders.jpg" width="20%">
-- [AA and AAA Battery Pack Holders](https://github.com/JohnnyElectronic/Battery_Pack_Holders/tree/main)
+
+### [AA and AAA Battery Pack Holders](https://github.com/JohnnyElectronic/Battery_Pack_Holders/)
+
 
 
 <a href="https://www.tindie.com/stores/johnnyelectronic/?ref=offsite_badges&utm_source=sellers_JohnyElectronic&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
