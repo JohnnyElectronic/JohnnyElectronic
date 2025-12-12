@@ -49,7 +49,7 @@ Hello and welcome, I enjoy building things and love putting electronics into hob
 
 <img src="../../../Battery_Pack_Holders/blob/main/img/battery_holders.jpg" width="20%">
 
-### [AA and AAA Battery Pack Holders](https://github.com/JohnnyElectronic/Battery_Pack_Holders/)
+### [9v, AA and AAA Battery Pack Holders](https://github.com/JohnnyElectronic/Battery_Pack_Holders/)
 
 
 
